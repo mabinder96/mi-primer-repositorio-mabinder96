@@ -7,6 +7,7 @@ namespace mi_primer_repositorio
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Como estan?");
         }
     }
 }
